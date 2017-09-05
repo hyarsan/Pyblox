@@ -1,0 +1,23 @@
+// Contains the settings for basic pyblox usage
+// Automatically gets filled when CLI is loaded up
+// for the first time. 
+//
+// WARNING: DO NOT GIVE ANYONE ACCESS TO THIS FILE!
+// THIS INFORMATION WILL ALLOW OTHER USERS TO ACCESS YOUR
+// ACCOUNT. IF YOU GIVE OUT THIS WILLINGLY, YOU ARE 
+// FORFIETING YOUR ACCOUNT. 
+//
+// No extensions will every ask you for your Roblox
+// information. Please be careful. 
+
+
+
+{
+	// Roblox information needed to access the Roblox API
+	"Username":"",
+	"Password":"",
+
+	// Path to this file
+	"Pts":"",
+	"cst": ""
+}
